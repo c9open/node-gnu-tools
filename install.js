@@ -1,7 +1,7 @@
 
 // NOTE: Make sure ./package.json ~ config.srcNpmUri is set to a URL containing gnu-tools npm package with sources
 //       if deploying this package without the `./*-src` directories.
-//       e.g. https://github.com/c9/node-gnu-tools/tarball/8950ceef20b479382032dfabbcb40a23bb188044
+//       e.g. https://github.com/c9open/node-gnu-tools/tarball/8950ceef20b479382032dfabbcb40a23bb188044
 
 const SPAWN = require("child_process").spawn;
 const EXEC = require("child_process").exec;

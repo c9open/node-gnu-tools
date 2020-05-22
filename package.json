@@ -16,15 +16,15 @@
     
     "repository" : {
         "type" : "git",
-        "url" : "http://github.com/c9/node-gnu-tools.git"
+        "url" : "http://github.com/c9open/node-gnu-tools.git"
     },
     
     "licenses" : [{
         "type" : "MIT",
-        "url" : "http://github.com/c9/architect/raw/master/LICENSE"
+        "url" : "http://github.com/c9open/architect/raw/master/LICENSE"
     }],
     
     "config": {
-        "srcNpmUri": "https://github.com/c9/node-gnu-tools/tarball/d624ceda4b19f43d4ab60b99569b0b7f55ca76a6"
+        "srcNpmUri": "https://github.com/c9open/node-gnu-tools/tarball/d624ceda4b19f43d4ab60b99569b0b7f55ca76a6"
     }
 }
